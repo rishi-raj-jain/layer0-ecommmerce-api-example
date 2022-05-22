@@ -39,8 +39,8 @@ export default new Router()
       const { slug } = req.params
       res.setHeader('content-type', 'application/json')
       CORS(res)
-      const item = JSON.stringify(products.find((i) => i.slug === slug))
-      res.body = item.images
+      const item = products.find((i) => i.slug === slug)
+      res.body = JSON.stringify(item.images)
       res.statusCode = 200
       res.statusMessage = 'OK'
     })
