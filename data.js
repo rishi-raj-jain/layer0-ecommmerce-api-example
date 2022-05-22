@@ -193,10 +193,10 @@ export const products = [
     prices: { price: { value: 54, currencyCode: 'USD' }, salePrice: null, retailPrice: null },
     images: [
       {
-        url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/122/412/mockup-008b81ff__29393.1603748041.png',
+        url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/122/412/mockup-008b81ff__29393.1603748041.jpg',
       },
       {
-        url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/122/413/mockup-ef7e6106__24046.1603748041.png',
+        url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/122/413/mockup-ef7e6106__24046.1603748041.jpg',
       },
     ],
     slug: 'womens-letterman-jacket',
