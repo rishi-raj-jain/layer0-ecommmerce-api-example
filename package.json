@@ -1,7 +1,8 @@
 {
   "name": "layer0-ecommmerce-api-example",
   "scripts": {
-    "format": "prettier '**/*' --write --ignore-unknown"
+    "format": "prettier '**/*' --write --ignore-unknown",
+    "layer0:deploy": "layer0 deploy"
   },
   "devDependencies": {
     "@layer0/cli": "^4.13.12",
