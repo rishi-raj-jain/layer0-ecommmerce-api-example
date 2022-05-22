@@ -1,6 +1,6 @@
 // Data Reference: demo.vercel.store
 
-export const products= [
+export const products = [
   {
     name: 'Black Beanie',
     path: '/next-js-enamel-mug/',
@@ -11,33 +11,21 @@ export const products= [
     images: [
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/115/489/Hat-front-black__72990.1603748583.png',
-        alt: '',
-        isDefault: true,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/115/490/Hat-back-black__57260.1602591509.png',
-        alt: '',
-        isDefault: false,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/115/494/Hat-left-black__51142.1602591510.png',
-        alt: '',
-        isDefault: false,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/115/491/Hat-front-white__31525.1602591510.png',
-        alt: '',
-        isDefault: false,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/115/492/Hat-left-white__29807.1602591510.png',
-        alt: '',
-        isDefault: false,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/115/493/Hat-back-white__92043.1603748583.png',
-        alt: '',
-        isDefault: false,
       },
     ],
     slug: 'next-js-enamel-mug',
@@ -53,33 +41,21 @@ export const products= [
     images: [
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/116/512/Men-Jacket-Front-Black__15466.1603283963.png',
-        alt: '',
-        isDefault: true,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/116/510/Men-Jacket-Side-Black__68202.1603283961.png',
-        alt: '',
-        isDefault: false,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/116/513/Men-Jacket-Back-Black__33864.1603283963.png',
-        alt: '',
-        isDefault: false,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/116/515/Men-Jacket-Front-White__95300.1603283963.png',
-        alt: '',
-        isDefault: false,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/116/511/Men-Jacket-Side-White__91924.1603283962.png',
-        alt: '',
-        isDefault: false,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/116/514/Men-Jacket-Back-White__02866.1603283963.png',
-        alt: '',
-        isDefault: false,
       },
     ],
     slug: 'lightweight-jacket',
@@ -95,33 +71,21 @@ export const products= [
     images: [
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/117/534/Men-TShirt-Black-Front__70046.1603748348.png',
-        alt: '',
-        isDefault: true,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/117/531/Men-TShirt-Black-Left-Side__72119.1603284781.png',
-        alt: '',
-        isDefault: false,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/117/535/Men-TShirt-Black-Back__57266.1603748348.png',
-        alt: '',
-        isDefault: false,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/117/532/Men-TShirt-White-Front__99616.1603284781.png',
-        alt: '',
-        isDefault: false,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/117/530/Men-TShirt-White-Left-Side__69000.1603284781.png',
-        alt: '',
-        isDefault: false,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/117/533/Men-TShirt-White-Back__33450.1603284781.png',
-        alt: '',
-        isDefault: false,
       },
     ],
     slug: 'jacket',
@@ -137,23 +101,15 @@ export const products= [
     images: [
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/118/508/Surgical-Mask-Black__89554.1603756821.png',
-        alt: '',
-        isDefault: false,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/118/509/Surgical-Mask-Front-Black__75855.1603756822.png',
-        alt: '',
-        isDefault: true,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/118/507/Surgical_Mask_black.G01__86690.1602592629.png',
-        alt: '',
-        isDefault: false,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/118/506/Surgical-Mask-White__79146.1602592628.png',
-        alt: '',
-        isDefault: false,
       },
     ],
     slug: 'mask',
@@ -169,23 +125,15 @@ export const products= [
     images: [
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/119/398/mockup-31b14bb5__19161.1603748166.png',
-        alt: '',
-        isDefault: false,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/119/399/mockup-c83ee0d3__79960.1601012457.png',
-        alt: '',
-        isDefault: false,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/119/400/mockup-7e303c9b__44172.1601012458.png',
-        alt: '',
-        isDefault: false,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/119/401/mockup-2b1dac14__24899.1603748166.png',
-        alt: '',
-        isDefault: true,
       },
     ],
     slug: 'ladies-short-sleeve-t-shirt',
@@ -201,23 +149,15 @@ export const products= [
     images: [
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/120/402/mockup-521d0b16__86945.1603748107.png',
-        alt: '',
-        isDefault: false,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/120/403/mockup-8e0b6c8a__57476.1601012637.png',
-        alt: '',
-        isDefault: false,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/120/404/mockup-0f98d04e__74522.1601012637.png',
-        alt: '',
-        isDefault: false,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/120/405/mockup-8ffbef51__62574.1603748107.png',
-        alt: '',
-        isDefault: true,
       },
     ],
     slug: 'short-sleeve-t-shirt',
@@ -233,18 +173,12 @@ export const products= [
     images: [
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/121/406/mockup-a0dc2330__62146.1601012861.png',
-        alt: '',
-        isDefault: true,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/121/407/mockup-35654aa0__38532.1601012862.png',
-        alt: '',
-        isDefault: false,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/121/408/mockup-00446dbe__38739.1601012863.png',
-        alt: '',
-        isDefault: false,
       },
     ],
     slug: 'next-js-short-sleeve-unisex-t-shirt',
@@ -259,14 +193,10 @@ export const products= [
     prices: { price: { value: 54, currencyCode: 'USD' }, salePrice: null, retailPrice: null },
     images: [
       {
-        url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/122/412/mockup-008b81ff__29393.1603748041.jpg',
-        alt: '',
-        isDefault: false,
+        url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/122/412/mockup-008b81ff__29393.1603748041.png',
       },
       {
-        url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/122/413/mockup-ef7e6106__24046.1603748041.jpg',
-        alt: '',
-        isDefault: true,
+        url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/122/413/mockup-ef7e6106__24046.1603748041.png',
       },
     ],
     slug: 'womens-letterman-jacket',
@@ -282,18 +212,12 @@ export const products= [
     images: [
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/124/415/mockup-c2bbbaf4__00019.1601229493.png',
-        alt: '',
-        isDefault: true,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/124/416/mockup-9b9894f1__67347.1601229494.png',
-        alt: '',
-        isDefault: false,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/124/417/mockup-2b4bcb4e__84929.1601229495.png',
-        alt: '',
-        isDefault: false,
       },
     ],
     slug: 'embroidered-champion-packable-jacket',
@@ -309,13 +233,9 @@ export const products= [
     images: [
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/125/420/mockup-7500e8eb__78586.1601229597.png',
-        alt: '',
-        isDefault: true,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/125/422/mockup-f9f4ca3c__03903.1601229599.png',
-        alt: '',
-        isDefault: false,
       },
     ],
     slug: 'bomber-jacket',
@@ -331,23 +251,15 @@ export const products= [
     images: [
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/126/423/mockup-9c5e3634__60853.1603747807.png',
-        alt: '',
-        isDefault: false,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/126/424/mockup-298fdaa3__84338.1601229769.png',
-        alt: '',
-        isDefault: false,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/126/425/mockup-ce086e5f__52042.1603747807.png',
-        alt: '',
-        isDefault: true,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/126/426/mockup-dbf9eb7b__11067.1601229771.png',
-        alt: '',
-        isDefault: false,
       },
     ],
     slug: 'unisex-skinny-joggers',
@@ -363,18 +275,12 @@ export const products= [
     images: [
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/127/431/mockup-9fc4c1cf__88683.1601229845.png',
-        alt: '',
-        isDefault: true,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/127/432/mockup-b3bfb20a__27807.1601229846.png',
-        alt: '',
-        isDefault: false,
       },
       {
         url: 'https://layer0-docs-layer0-ecommmerce-api-example-default.layer0-limelight.link/images/stencil/original/products/127/433/mockup-1fce4854__16542.1601229847.png',
-        alt: '',
-        isDefault: false,
       },
     ],
     slug: 'unisex-joggers',
