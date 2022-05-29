@@ -10,11 +10,11 @@ const CORS= (res) => {
 }
 
 export default new Router()
-  .get('/images/:path*', ({ cache, serveStatic, setHeader }) => {
+  .get('/images/:path*', ({ cache, serveStatic, setResponseHeader }) => {
     cache({ edge: { maxAgeSeconds: 60 * 60 * 24 * 365 }, browser: false })
-    setHeader('Access-Control-Allow-Origin', '*')
-    setHeader('Access-Control-Allow-Methods', 'GET')
-    setHeader('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept')
+    setResponseHeader('Access-Control-Allow-Origin', '*')
+    setResponseHeader('Access-Control-Allow-Methods', 'GET')
+    setResponseHeader('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept')
     serveStatic('images/:path*')
   })
   .get('/products/all', ({ compute, cache }) => {
